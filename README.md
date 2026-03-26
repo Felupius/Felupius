@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Felupius
 - 👀 I’m interested in learn schedule.
 - 🌱 I’m currently learning html, css.
-- 💞️ I’m looking to collaborate on nothing rn
 - 📫 How to reach me search everywhere.
 
 <!---
